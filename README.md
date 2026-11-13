@@ -1,17 +1,12 @@
-# Hi, I'm Mishael Yakubu 👋
+<p align="center">
+  <a href="https://github.com/Mperomishael">
+    <img src="card.svg" alt="Mishael Yakubu's GitHub profile card" />
+  </a>
+</p>
 
-I'm a software developer and tech creative passionate about building modern, functional, and impactful digital solutions. I enjoy turning ideas into real-world applications with clean design, smooth user experience, and scalable architecture.
-
-I work with technologies like Next.js, Firebase, Supabase, JavaScript, TypeScript, and modern frontend/backend tools to create fast and responsive web applications.
-
-I’m deeply interested in:
-- Full-stack web development
-- Authentication & backend systems
-- UI/UX design
-- API integrations
-- Scalable digital platforms
-- Problem solving & system design
-
-Beyond coding, I have strong analytical and technical skills, and I enjoy learning, building, and improving continuously.
-
-Currently focused on building projects that combine innovation, performance, and real-world usefulness.
+<p align="center">
+  <a href="https://whatsapp.com/channel/0029VaI3OXiF6smuq5LxxN15">WhatsApp Channel</a> ·
+  <a href="https://wa.me/2348142656848">WhatsApp</a> ·
+  <a href="https://t.me/+2348142656848">Telegram</a> ·
+  <a href="mailto:empiredigitalsworldwide@gmail.com">Email</a>
+</p>
